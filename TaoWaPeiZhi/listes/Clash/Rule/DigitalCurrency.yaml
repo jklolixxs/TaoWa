@@ -1,0 +1,16 @@
+payload:
+# 币安
+  - DOMAIN-SUFFIX,appsflayer.com
+  - DOMAIN-SUFFIX,binance.cloud
+  - DOMAIN-SUFFIX,binance.com
+  - DOMAIN-SUFFIX,binance.me
+  - DOMAIN-SUFFIX,bnappzh.co
+  - DOMAIN-SUFFIX,bnbstatic.com
+  - DOMAIN-SUFFIX,bnbzh.ac
+  - DOMAIN-SUFFIX,bntrace.com
+  - DOMAIN-SUFFIX,saasexch.com
+  - DOMAIN-KEYWORD,binance
+  
+# 欧易
+  - DOMAIN-SUFFIX,okx.com
+  - DOMAIN-KEYWORD,okx
